@@ -37,6 +37,9 @@ rules:
   - expected: プラットフォーム
     pattern: プラットホーム
 
+  - expected: Markdown
+    pattern: マークダウン
+
   - expected: Issue
     pattern: /issue/
 
