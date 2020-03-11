@@ -34,7 +34,8 @@ cd wordpress-tutorial-site
 ```shell
 npm install --save gatsby-source-wordpress
 ```
-
+ライブラリー
+ライブラリ
 以下のコードを使い、`gatsby-config.js` に `gatsby-source-wordpress` プラグインを追加してください。これは[デモサイトのソースコード](https://github.com/gatsbyjs/gatsby/blob/master/examples/using-wordpress/gatsby-config.js)でも確認できます。
 
 ```js:title=gatsby-config.js
